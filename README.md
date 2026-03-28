@@ -167,6 +167,5 @@ protein sequences, and integration with biological databases.
 Priyanka Pathina
 Module : Coursework
 Github: PriyankaPathina
-Github SSH link: git@github.com:PriyankaPathina/DNA-Sequence-Analysis-Application.git
 Github HTTPS link: https://github.com/PriyankaPathina/DNA-Sequence-Analysis-Application.git
 Newcastle University
