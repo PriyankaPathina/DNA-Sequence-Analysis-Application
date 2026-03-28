@@ -5,7 +5,7 @@ Python Version Used: Python 3.14
 ## Project Overview
 
 This Python-based DNA Sequence Analysis Application was developed as
-part of the CSC8330 coursework. The application performs essential
+part of the coursework. The application performs essential
 bioinformatics tasks including reading FASTA files, validating DNA
 sequences, calculating GC content, identifying motifs, and generating
 graphical visualisations.
@@ -49,7 +49,7 @@ biological analysis.
 ------------------------------------------------------------------------
 
 ## System Requirements
-
+-   current used Python version 3.14
 -   Python 3.8 or higher\
 -   Windows, macOS, or Linux operating system
 
@@ -109,8 +109,6 @@ The application will:
 
 ## Example Use Case
 
-## Example Use Case
-
 Input FASTA file:
 
 >Example_Sequence
@@ -166,11 +164,9 @@ protein sequences, and integration with biological databases.
 
 ## Author
 
-Module : CSC8330 Coursework
-Student id: C5057916
-Github: C5057916Newcastle
 Priyanka Pathina
-Github SSH link: git@github.com:c5057916Newcastle/DNA-Sequence--Analysis.git
-Github HTTPS link: https://github.com/c5057916Newcastle/DNA-Sequence--Analysis.git
-School of Computing
+Module : Coursework
+Github: PriyankaPathina
+Github SSH link: git@github.com:PriyankaPathina/DNA-Sequence-Analysis-Application.git
+Github HTTPS link: https://github.com/PriyankaPathina/DNA-Sequence-Analysis-Application.git
 Newcastle University
